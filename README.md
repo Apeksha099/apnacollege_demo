@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first git respository
 <br><br>
-Author - Apeksha More
+<b>Author - Apeksha More</b>
